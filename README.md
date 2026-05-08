@@ -2,7 +2,7 @@
 
 **Удалённое управление ПК с телефона. Бесплатно. Без облака. Без посредников.**
 
-[![Version](https://img.shields.io/badge/version-7.5-blue)]()
+[![Version](https://img.shields.io/badge/version-7.6-blue)]()
 
 ---
 
